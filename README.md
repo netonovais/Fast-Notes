@@ -8,7 +8,7 @@ A aplicação foi projetada para ser uma ferramenta de produtividade leve, demon
 
 **[⬆️ Acessar a Demonstração Online](https://fast-notes-for-neto-novais.netlify.app)**
 
-**![Prévia do Fast Notes App](https://i.imgur.com/Kz9Yl9D.png)**
+**![Prévia do Fast Notes App](https://imgur.com/a/D6FGiJa)**
 
 ---
 
